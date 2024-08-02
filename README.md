@@ -1,2 +1,2 @@
 # Analise-de-Dados
-Analise de dados utilizando pandas, tratando, mascarando e prevendo.
+Analise de dados  tratando, mascarando e prevendo.
